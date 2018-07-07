@@ -1,0 +1,32 @@
+#header {
+  background: #ffe6e6;
+  width: 715px;
+  height: 100px;
+  font-size: 27px;
+  text-align: center;
+}
+#camp_content{
+  background: #ccffe6;
+  width: 355px;
+  height: 700px;
+}
+#trail_content{
+  background: #ccffff;
+  width: 355px;
+  height: 700px;
+  position: absolute;
+  left: 355px;
+}
+body{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: #808080;
+}
+a:visited{color: crimson;
+  
+}
+a:hover{color: blue;
+  
+}
+a:link{text-decoration: none;color: #808080; 
+  
+}
